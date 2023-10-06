@@ -123,15 +123,15 @@ jobs:
           if-no-files-found: ignore
           name: ${{ matrix.os }}-artifacts
           path: |
-            packages/insomnia/dist/*.exe
-            packages/insomnia/dist/squirrel-windows/*
-            packages/insomnia/dist/*.zip
-            packages/insomnia/dist/*.dmg
-            packages/insomnia/dist/*.snap
-            packages/insomnia/dist/*.rpm
-            packages/insomnia/dist/*.deb
-            packages/insomnia/dist/*.AppImage
-            packages/insomnia/dist/*.tar.gz
+            packages/insomnial/dist/*.exe
+            packages/insomnial/dist/squirrel-windows/*
+            packages/insomnial/dist/*.zip
+            packages/insomnial/dist/*.dmg
+            packages/insomnial/dist/*.snap
+            packages/insomnial/dist/*.rpm
+            packages/insomnial/dist/*.deb
+            packages/insomnial/dist/*.AppImage
+            packages/insomnial/dist/*.tar.gz
 
       # packages/insomnial-inso/artifacts/*
 
