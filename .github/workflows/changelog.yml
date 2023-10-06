@@ -157,7 +157,7 @@ jobs:
           cache-dependency-path: package-lock.json
 
       - name: Install packages
-        run: npm ci
+        run: npm i
 
       - name: Run changelog-image
         run: npm run changelog-image

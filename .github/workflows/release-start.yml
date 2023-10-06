@@ -34,7 +34,7 @@ jobs:
           cache-dependency-path: package-lock.json
 
       - name: Install packages
-        run: npm ci
+        run: npm i
 
       - name: App version (stable, no version doing patch)
         if: github.event.inputs.channel == 'stable' && !github.event.inputs.version

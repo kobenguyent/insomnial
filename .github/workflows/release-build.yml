@@ -37,7 +37,7 @@ jobs:
           cache-dependency-path: package-lock.json
 
       - name: Install packages
-        run: npm ci
+        run: npm i
 
       # - name: Package app (MacOS only)
       #   if: matrix.os == 'macos-latest'
