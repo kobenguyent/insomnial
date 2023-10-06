@@ -1,0 +1,14 @@
+{
+  "name": "insomnial",
+  "appId": "local.insomnial.app",
+  "userDataFolder": "Insomnial",
+  "productName": "Insomnial",
+  "synopsis": "The Collaborative API Client and Design Tool",
+  "icon": "https://github.com/kobenguyent/insomnial/blob/develop/packages/insomnia/src/icons/icon.ico?raw=true",
+  "changelogUrl": "",
+  "theme": "default",
+  "lightTheme": "studio-light",
+  "darkTheme": "default",
+  "githubOrg": "Kong",
+  "githubRepo": "insomnial"
+}
