@@ -13,7 +13,7 @@
     "directory": "packages/insomnial"
   },
   "license": "MIT",
-  "author": "kobenguyent@gmail.com",
+  "author": "kobenguyent <kobenguyent@gmail.com>",
   "main": "src/main.min.js",
   "scripts": {
     "build": "npm run build:sr && npm run build:app",
