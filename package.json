@@ -2,7 +2,7 @@
   "name": "insomnial",
   "private": true,
   "version": "1.0.0",
-  "author": "kobenguyent@gmail.com",
+  "author": "kobenguyent <kobenguyent@gmail.com>",
   "description": "Insomnial is a cross-platform REST client, built on top of Electron.",
   "license": "MIT",
   "repository": "https://github.com/kobenguyent/insomnial",
